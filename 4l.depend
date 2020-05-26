@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1588689000 source:c:\users\Юыќур.lenovo-pc\desktop\4l\heap.cpp
+	<iostream>
+	"Heap.h"
+
+1588687835 c:\users\Юыќур.lenovo-pc\desktop\4l\heap.h
+
+1588687684 source:c:\users\Юыќур.lenovo-pc\desktop\4l\insert.cpp
+
+1590418502 source:c:\users\Юыќур.lenovo-pc\desktop\4l\main.cpp
+	<iostream>
+	"list.h"
+
+1590512494 c:\users\Юыќур.lenovo-pc\desktop\4l\list.h
+	<iostream>
+
